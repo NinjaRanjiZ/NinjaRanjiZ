@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NinjaRanjiZ
+- 👋 Hi, I’m Ranjitha Shenoy
 - 👀 I’m interested in Web Technologies
 - 🌱 I’m currently learning Reactive Programming
 - 📫 How to reach me - ranjitha@codezyng.com
